@@ -1,0 +1,14 @@
+
+
+body{
+    margin:0;
+    padding: 0;
+    background: url(images/galaxy1.jpg) center fixed no-repeat;
+    background-size: cover;
+}
+
+.wrapper{
+    position: relative;; 
+    top:120px;
+
+}
